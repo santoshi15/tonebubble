@@ -8,8 +8,8 @@
   "transcribeModel": "gpt-4o-mini-transcribe",
   "cleanupModel": "gpt-4.1-nano",
   "temperature": 0.2,
-  "latestVersionCode": 4,
-  "latestVersionName": "1.3",
+  "latestVersionCode": 5,
+  "latestVersionName": "1.4",
   "apkUrl": "https://santoshi15.github.io/tonebubble/ToneBubble.apk",
-  "notes": "v1.3: the bubble now hides itself when you are not in a text field, and cleanup runs on a cheaper, faster model."
+  "notes": "v1.4: the bubble now follows the keyboard, gone when it is down. Pin it anytime from the new Quick Settings tile, the notification, or the app."
 }
