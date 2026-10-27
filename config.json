@@ -8,8 +8,8 @@
   "transcribeModel": "gpt-4o-mini-transcribe",
   "cleanupModel": "gpt-4.1-nano",
   "temperature": 0.2,
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
   "apkUrl": "https://santoshi15.github.io/tonebubble/ToneBubble.apk",
-  "notes": "v1.4: the bubble now follows the keyboard, gone when it is down. Pin it anytime from the new Quick Settings tile, the notification, or the app."
+  "notes": "v1.5 fixes: the Quick Settings tile is now the bubble on off switch, and keyboard detection got the missing accessibility flag. If the bubble has been stuck on screen, Android likely turned Accessibility off during the update: check step 3 in setup after installing."
 }
